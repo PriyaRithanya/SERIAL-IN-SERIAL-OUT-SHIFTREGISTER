@@ -56,7 +56,8 @@ Developed by:PRIYARITHANYA M RegisterNumber: 25007623
 **TIMING DIGRAMS FOR SISO Shift Register**
 
 
-<img width="1920" height="1080" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/1d4e8d86-9e9e-4713-b4eb-534092898614" />
+![WhatsApp Image 2025-12-11 at 14 10 02_c9a0d887](https://github.com/user-attachments/assets/92753a15-3558-4907-a552-6d9b30312689)
+
 
 
 **RESULTS**
